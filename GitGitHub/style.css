@@ -1,0 +1,12 @@
+/* Change the color of the text from blue to red */
+*{
+    background-color: cornflowerblue;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    top: 500;
+
+}
